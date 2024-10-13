@@ -1,5 +1,2 @@
-public class lin {
-    public static void main(String[] args) {
-        System.out.println("test");
-    }
+package PACKAGE_NAME;public class lin {
 }
